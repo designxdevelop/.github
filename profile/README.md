@@ -2,7 +2,7 @@
 
 Engineering studio building web platforms, internal tools, and developer workflows.
 
-We build practical software for teams that need more than off-the-shelf solutions. Our work spans marketing infrastructure, site tooling, automation, AI-assisted workflows, and maintainable web systems.
+We build practical software for teams that need more than off-the-shelf solutions. Our work spans marketing infrastructure, site tooling, automation, AI-assisted workflows, and maintainable web systems. [Learn More](https://designxdevelop.com)
 
 ## Focus
 
