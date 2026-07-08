@@ -13,6 +13,9 @@ We build practical software for teams that need more than off-the-shelf solution
 
 ## Selected Projects
 
+### [dxd.link](https://dxd.link)
+One-page link-in-bio builder with a keyboard-first editor, typed block spec, live analytics, and static export. Currently in beta — publish at dxd.link/u/yourname.
+
 ### [magic-shell](https://github.com/designxdevelop/magic-shell)
 Type what you mean, execute what you need. An AI-powered CLI/TUI workflow for turning intent into terminal commands.
 
